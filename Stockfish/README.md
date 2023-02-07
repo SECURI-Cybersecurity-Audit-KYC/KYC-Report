@@ -1,5 +1,6 @@
-<img width="1280" alt="Securi KYC Certificate for Stockfish" src="https://user-images.githubusercontent.com/111109564/216771431-de57445b-da5d-4cc4-b4ca-db58f92ecbbc.png">
+![Reported a scamed](https://user-images.githubusercontent.com/111109564/217171826-b858a829-34ca-465b-a0fc-8e0567ca6399.png)
 
+This Certificated has revoked by evidence one of apart stockfish ai is bad actors
 <br>KYC Report Information
 <br>About Report	Stockfish KYC Report
 
