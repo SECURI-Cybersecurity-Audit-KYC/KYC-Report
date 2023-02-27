@@ -1,11 +1,11 @@
 
 
 <br>KYC Report Information
-<br>About Report	Ajira Pay KYC Report
+<br>About Report	Ajira Pay Finance KYC Report
 Version	v1.0
-Client	Ajira Pay
+Client	Ajira Pay Finance
 
-Project Name	Ajira Pay
+Project Name	Ajira Pay Finance
 
 Website	https://ajirapay.finance/
 <br>Platform	BNB Chain (Previously Binance Smart Chain)
