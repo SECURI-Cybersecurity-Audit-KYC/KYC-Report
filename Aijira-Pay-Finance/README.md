@@ -1,3 +1,4 @@
+<img width="1280" alt="Securi KYC Certificate for Ajira Pay (1)" src="https://user-images.githubusercontent.com/111109564/221506785-ae177d7b-71cb-4e6e-98f5-4fba40401b2d.png">
 
 
 <br>KYC Report Information
