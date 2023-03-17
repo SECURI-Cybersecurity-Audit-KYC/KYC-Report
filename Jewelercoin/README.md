@@ -1,4 +1,5 @@
-![Jewelercoin](https://user-images.githubusercontent.com/111109564/225915550-edca3da2-b23b-48ec-b639-d5ca8e8900eb.png)
+<img width="1280" alt="Securi KYC Certificate for Jewelercoin" src="https://user-images.githubusercontent.com/111109564/225915975-a96dfb92-5a4d-4283-8373-3feabd28f0c2.png">
+
 
 <br>KYC Report Information
 <br>About Report	Jewelercoin KYC Report
