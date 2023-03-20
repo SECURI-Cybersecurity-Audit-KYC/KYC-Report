@@ -1,7 +1,7 @@
 ![Reported a scamed (1)](https://user-images.githubusercontent.com/111109564/226227083-0a81f959-452a-4467-9e72-fee6722b4c42.png)
 ![Harvest Keeper (1)](https://user-images.githubusercontent.com/111109564/226227177-646a5a0a-1fb6-4013-bbec-5c30e8079202.png)
 
-
+<br> READ FULL INCIDENT REPORT HERE https://medium.com/@securi/the-potential-suspicious-activity-of-the-harvest-keeper-project-f78796d9f978
 
 <br>KYC Report Information
 <br>About Report	Harvest Keeper KYC Report
