@@ -1,3 +1,5 @@
+<img width="1280" alt="Securi KYC Certificate for CryptoFrog" src="https://user-images.githubusercontent.com/111109564/227724147-b3eaa6d1-1f21-4c8d-9113-fd491537e37c.png">
+
 <br>KYC Report Information
 <br>About Report	CryptoFrog KYC Report
 <br>Version	v1.0
