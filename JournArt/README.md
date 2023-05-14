@@ -1,6 +1,8 @@
 # KYC-Report
 ![Incident Report](https://github.com/SECURI-Cybersecurity-Audit-KYC/KYC-Report/assets/111109564/3eb65c46-b6b6-42bd-8e81-fb063f1c2d11)
-Full JournArt Exit Scam Incident Report: 
+Full JournArt Exit Scam Incident Report: https://securi-lab.com/wp-content/uploads/2022/11/JournArt-Incident-Report.pdf
+Evidence and Video Verification and Claim of Responsibility:
+https://securi-lab.com/our-case/journart/
 
 <br>
 <br>
