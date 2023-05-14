@@ -1,4 +1,9 @@
 # KYC-Report
+![Incident Report](https://github.com/SECURI-Cybersecurity-Audit-KYC/KYC-Report/assets/111109564/3eb65c46-b6b6-42bd-8e81-fb063f1c2d11)
+Full JournArt Exit Scam Incident Report: 
+
+<br>
+<br>
 <img width="1280" alt="Securi KYC Certificate for JournArt (1)" src="https://user-images.githubusercontent.com/111109564/218752967-2fca2fba-d96a-41d9-9b9a-2e638afb43bb.png">
 <br>KYC Report Information
 <br>About Report	JournArt KYC Report
