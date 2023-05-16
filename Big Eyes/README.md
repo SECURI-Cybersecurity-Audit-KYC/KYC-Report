@@ -1,18 +1,4 @@
-<img width="1280" alt="Securi KYC Certificate for Big Eyes" src="https://user-images.githubusercontent.com/111109564/232812079-3a321450-735e-4e99-865f-dd638dfa8434.png">
+<img width="1728" alt="Screenshot 2566-05-16 at 23 14 59" src="https://github.com/SECURI-Cybersecurity-Audit-KYC/KYC-Report/assets/111109564/ee3cad84-8aa5-4730-9715-04186a706a2a">
 
-<br>KYC Report Information
-<br>About Report	Big Eyes KYC Report
-<br>Version	v1.0
-<br>Client	Big Eyes
 
-<br>Project Name	Big Eyes
-
-<br>Website	https://bigeyes.space/
-<br>Identities Document	Passport - Bulgaria
-<br>Relationship with the project	Team : Owner
-<br>Number of people who perform KYC	1
-<br>The number of Sanction databases that have performed the KYC.	96 of Sanction Database & Regulator Law Enforcement Database
-<br>Matching Sanction/Law Enforcement or Regulatory Enforcement database	0 [Not found]
-<br>Financial Crime and Fraud	0 [Not found]
-<br>Cybercrime Or Scam	0 [Not found]
-<br>Scanning Date	18 Apr 2023 (UTC+07:00)
+On the latest announcement, We have consulted with the Big Eyes team and have come to the conclusion that there was no foul play. They have been very helpful with other queries we asked and we both feel it is best that Big Eyes moves to use other KYC companies to increase their credibility. We feel that the participant's in the Big Eye project still put their trust in the project and do not feel that this is anything harmful.
