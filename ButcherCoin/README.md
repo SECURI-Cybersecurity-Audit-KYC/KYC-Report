@@ -2,12 +2,12 @@
 
 <br>KYC Report Information
 <br>About Report	ButcherCoin KYC Report
-Version	v1.0
-Client	ButcherCoin
+<br>Version	v1.0
+<br>Client	ButcherCoin
 
 Project Name	ButcherCoin
 
-Website: https://www.etha-verse.com/
+Website: https://butchercoin.xyz/en/
 
 
 <br>Platform	BNB Chain
