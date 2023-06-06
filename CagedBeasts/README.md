@@ -1,4 +1,5 @@
-<img width="1280" alt="SECUR LAB KYC for CagedBeasts" src="https://github.com/SECURI-Cybersecurity-Audit-KYC/KYC-Report/assets/111109564/3768c946-37c1-4156-8f59-879b2b0ead91">
+<img width="1280" alt="SECUR LAB KYC for CagedBeasts" src="https://github.com/SECURI-Cybersecurity-Audit-KYC/KYC-Report/assets/111109564/18eae684-42d4-42c4-9911-e1fa29057540">
+
 
 <br>KYC Report Information
 <br>About Report	CagedBeasts KYC Report
