@@ -1,4 +1,4 @@
-![Squirrump](https://github.com/user-attachments/assets/6a45918a-9f42-4daf-9f18-e11a7f0a9503)
+<img width="1280" alt="Certificate KYC for squirrump" src="https://github.com/user-attachments/assets/442e890d-a0f9-46ba-91d8-765640a4dd8f" />
 
 
 <br>KYC Report Information
