@@ -1,3 +1,4 @@
+![Squirrump](https://github.com/user-attachments/assets/6a45918a-9f42-4daf-9f18-e11a7f0a9503)
 
 
 <br>KYC Report Information
