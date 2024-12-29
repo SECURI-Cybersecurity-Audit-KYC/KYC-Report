@@ -11,7 +11,7 @@ Project Name	Dreamcars
 
 Website: https://dreamcars.co/
  
-<br> Smart Contract Audit - They have smart contract audit with Solidproof
+<br> Smart Contract Audit - no
 
 
 
