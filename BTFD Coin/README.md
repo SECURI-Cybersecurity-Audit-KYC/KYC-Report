@@ -1,8 +1,5 @@
 <img width="1280" alt="Certificate KYC for BTFD Coin" src="https://github.com/user-attachments/assets/7a726c84-8117-423c-9dc3-f1a0293fa18a">
 
-Monday, 13 Jan 2025 - We have identified a minor error in the KYC Report document under the section titled “(request from).” The error has been corrected, and the updated data has been successfully re-uploaded.
-We would like to clarify that the error was caused by an anomaly in our automated data entry system within the document.
-We regret to inform you of an error that has occurred.
 
 <br>KYC Report Information
 <br>About Report	BTFD Coin KYC Report
@@ -33,6 +30,8 @@ GEO Tier 2, The country of the person being assessed has laws, including legal e
 <br>Cybercrime Or Scam	0 [Not found]
 <br>Scanning Date	11 Nov 2024 (UTC+07:00)
 
-
+<br>Monday, 13 Jan 2025 - We have identified a minor error in the KYC Report document under the section titled “(request from).” The error has been corrected, and the updated data has been successfully re-uploaded.
+We would like to clarify that the error was caused by an anomaly in our automated data entry system within the document.
+We regret to inform you of an error that has occurred.
 
 
